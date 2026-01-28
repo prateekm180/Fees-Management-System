@@ -2,6 +2,7 @@
 - Computer Science Project (Python)
 - CBSE – Class XII (2021–2022)
 
+
 # Project Overview
 
 This project is a Fee Management System developed as a Class 12 Computer Science Project during the academic year 2021–2022.
@@ -34,6 +35,12 @@ The system helps in maintaining fee details of students digitally, thereby reduc
 # Conclusion
 
 The Fee Management System successfully fulfills the objectives of the project. It provides a simple and effective way to manage student fee records digitally. This project helped in understanding how computer applications can be used to solve real-world problems in an educational environment.
+
+
+# Declaration
+
+I hereby declare that this project entitled “Fee Management System” is an original work carried out by me and has not been submitted to any other board or institution for any purpose.
+
 
 # Developed By
 
